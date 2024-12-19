@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/amriteshs11/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="amriteshsingh0006@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDsfXMMSkvhpjtPVhmvvhlcbfLhjKdpswpvPlWfdrhzvHZcqvjxzZlZTztWffFwXhjCFdD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I’m Amritesh Singh, a 🌐 Web Developer and 🎓  Second-Year College Student passionate about creating user-friendly and visually appealing web applications. I’m constantly exploring new technologies and challenging myself to learn and grow in the tech field.<br><br>😄 I'm currently learning React.js and Node.js.<br>💻Competed in 3 hackathons, becoming a finalist in one.<br>📫 Reach me at :  amriteshsingh0006@gmail.com<br><br>🌈 Fun Facts about me : <br>Outside of coding, I love to play  and watch Football.<br><br>🔥 A quote that inspires me :<br>"In my mind, I'm always the best"</p>
+<p align="left">I’m Amritesh Singh, a 🌐 Web Developer and 🎓  Second-Year College Student passionate about creating user-friendly and visually appealing web applications. I’m constantly exploring new technologies and challenging myself to learn and grow in the tech field.<br><br>😄 I'm currently learning React.js and Node.js.<br>💻Competed in 3 hackathons, becoming a finalist in one.<br>📫 Reach me at :  amriteshsingh0006@gmail.com<br><br>🌈 Fun Fact about me : <br>Outside of coding, I love to play  and watch Football.<br><br>🔥 A quote that inspires me :<br>"In my mind, I'm always the best"</p>
 
 ###
 
