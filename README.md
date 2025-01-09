@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I’m Amritesh Singh, a 🌐 Web Developer and 🎓  Second-Year College Student passionate about creating user-friendly and visually appealing web applications. I’m constantly exploring new technologies and challenging myself to learn and grow in the tech field.<br><br>😄 I'm currently learning React.js and Node.js.<br>💻Competed in 3 hackathons, becoming a finalist in one.<br>📫 Reach me at :  amriteshsingh0006@gmail.com<br><br>🌈 Fun Fact about me : <br>Outside of coding, I love to play  and watch Football.<br><br>🔥 A quote that inspires me :<br>"In my mind, I'm always the best"</p>
+<p align="left">I’m Amritesh Singh, a 🌐 Web Developer and 🎓  Second-Year College Student passionate about creating user-friendly and visually appealing web applications. I’m constantly exploring new technologies and challenging myself to learn and grow in the tech field.<br><br>😄 I'm currently learning Node.js and Next.js.<br>💻Competed in 3 hackathons, becoming a finalist in one.<br>📫 Reach me at :  amriteshsingh0006@gmail.com<br><br>🌈 Fun Fact about me : <br>Outside of coding, I love to play  and watch Football.<br><br>🔥 A quote that inspires me :<br>"In my mind, I'm always the best"</p>
 
 ###
 
